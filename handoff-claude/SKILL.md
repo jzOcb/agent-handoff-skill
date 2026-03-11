@@ -1,5 +1,6 @@
 ---
 name: handoff-claude
+version: 1.0.0
 description: |
   Claude 通用版任务交接 skill：生成清晰、可执行的 handoff 文档，适配 Claude.ai/Claude Code。
   Use when 用户说“handoff/交接/继续上一个任务/把研究交给执行”。

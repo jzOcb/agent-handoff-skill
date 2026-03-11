@@ -1,5 +1,6 @@
 ---
 name: handoff-openclaw
+version: 1.0.0
 description: |
   OpenClaw 专用的任务交接 skill：生成标准化 handoff 文档并交给 sub-agent 或发送到指定 topic。
   Use when 用户说“handoff/交接/传给 codex/让 sonnet 做/拆分任务/spawn 执行”。
